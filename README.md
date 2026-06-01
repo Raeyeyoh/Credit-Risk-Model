@@ -1,4 +1,11 @@
 Credit Scoring Business Understanding
+Dataset
+
+This project uses the Xente eCommerce transaction dataset
+provided as part of the Bati Bank Credit Risk Modeling Challenge.
+
+Source:
+https://www.kaggle.com/datasets/brendah/xente-challenge
 
 1.  Basel II and Model Interpretability
 
