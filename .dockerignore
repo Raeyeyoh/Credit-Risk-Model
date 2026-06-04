@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+mlruns/
+.git/
+.pytest_cache/
